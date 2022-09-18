@@ -1,0 +1,22 @@
+#topic{
+	color: blue;
+}
+
+a{
+	color: rgb(255, 179, 0);
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+a.rosybrown {
+	color: rosybrown;
+}
+p.yellowgreen{
+	color: yellowgreen;
+}
+p.orange{
+	color: orange;
+}
